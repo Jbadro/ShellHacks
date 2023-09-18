@@ -1,2 +1,2 @@
 # ShellHacks
-Vegan food ranking 
+Student activities and food finder matching website
